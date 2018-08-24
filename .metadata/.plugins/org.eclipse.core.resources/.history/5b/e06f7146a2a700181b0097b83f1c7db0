@@ -163,6 +163,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
 	<repositories>
         <repository>
        		<id>mulesoft-releases</id>
@@ -179,8 +180,13 @@
     </repositories>
     <pluginRepositories>
         <pluginRepository>
-            <id>mulesoft-public</id>
-            <url>http://repository.mulesoft.org/nexus/content/repositories/releases</url>
+            <id>mulesoft-release</id>
+            <name>mulesoft release repository</name>
+            <layout>default</layout>
+            <url>http://repository.mulesoft.org/releases/</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
         </pluginRepository>
     </pluginRepositories>
 
