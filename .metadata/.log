@@ -1614,3 +1614,27 @@ Binding(CTRL+F,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.mule.tooling.contexts.mulePropertiesEditor,,,system)
+
+!ENTRY org.mule.tooling.core 1 0 2018-08-25 10:21:11.395
+!MESSAGE While generating classpath found that C:\Phani\Softwares\AnypointStudio-for-win-64bit-6.5.0-201806071907 (1)\AnypointStudio\plugins\org.mule.tooling.server.3.9.0_6.4.0.201710051922\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-08-25 10:21:11.410
+!MESSAGE While generating classpath found that C:\Phani\Softwares\AnypointStudio-for-win-64bit-6.5.0-201806071907 (1)\AnypointStudio\plugins\org.mule.tooling.server.3.9.0_6.4.0.201710051922\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 2 0 2018-08-25 10:21:26.799
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
+
+!ENTRY org.mule.tooling.core 2 0 2018-08-25 10:21:26.799
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
+
+!ENTRY org.mule.tooling.core 2 0 2018-08-25 10:21:26.799
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
+
+!ENTRY org.mule.tooling.core 2 0 2018-08-25 10:21:26.815
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
+
+!ENTRY org.mule.tooling.core 2 0 2018-08-25 10:29:03.905
+!MESSAGE Server definition does not have a library folder labeled Mule Core Libraries (per app)
+
+!ENTRY org.mule.tooling.core 2 0 2018-08-25 10:29:03.905
+!MESSAGE Server definition does not have a library folder labeled Mule Core Libraries (per app)

@@ -7,8 +7,8 @@ http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/cor
     <spring:beans>
         <spring:import resource="classpath:jenkinstest.xml"/>
     </spring:beans>
-    <munit:test name="new-test-suite-maven-testFlowTest" description="Test">
-        <flow-ref name="maven-testFlow" doc:name="Flow-ref to maven-testFlow"/>
-        <munit:assert-on-equals expectedValue="TRUE" actualValue="#[payload]" doc:name="Assert Equals"/>
+    <munit:test name="new-test-suite-JenkinstestFlowTest" description="Test">
+        <flow-ref name="JenkinstestFlow" doc:name="Flow-ref to JenkinstestFlow"/>
+        <munit:assert-on-equals expectedValue="TEST" actualValue="#[payload]" doc:name="Assert Equals"/>
     </munit:test>
 </mule>
