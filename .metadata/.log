@@ -1638,3 +1638,15 @@ Binding(CTRL+F,
 
 !ENTRY org.mule.tooling.core 2 0 2018-08-25 10:29:03.905
 !MESSAGE Server definition does not have a library folder labeled Mule Core Libraries (per app)
+
+!ENTRY org.mule.tooling.core 1 0 2018-08-25 11:22:47.233
+!MESSAGE While generating classpath found that C:\Phani\Softwares\AnypointStudio-for-win-64bit-6.5.0-201806071907 (1)\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-08-25 11:22:47.233
+!MESSAGE While generating classpath found that C:\Phani\Softwares\AnypointStudio-for-win-64bit-6.5.0-201806071907 (1)\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-08-25 11:22:47.233
+!MESSAGE While generating classpath found that C:\Phani\Softwares\AnypointStudio-for-win-64bit-6.5.0-201806071907 (1)\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-08-25 11:22:47.249
+!MESSAGE While generating classpath found that C:\Phani\Softwares\AnypointStudio-for-win-64bit-6.5.0-201806071907 (1)\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
